@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Work income"
+    },
+    {
+      "id": 2,
+      "description": "Water Bill"
+    },
+    {
+      "id": 3,
+      "description": "Rent"
+    },
+    {
+      "id": "5b4c83f8-beba-473a-88d1-120c5a69ae30",
+      "description": "Anohter bill"
+    },
+    {
+      "id": "f369038f-2111-46eb-8237-d1c3948a2d83",
+      "description": "Phone bill"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "value": 1000,
+      "isExpense": false
+    },
+    {
+      "id": 2,
+      "value": 20,
+      "isExpense": true
+    },
+    {
+      "id": 3,
+      "value": 300,
+      "isExpense": true
+    },
+    {
+      "id": "5b4c83f8-beba-473a-88d1-120c5a69ae30",
+      "isExpense": true,
+      "value": "100"
+    },
+    {
+      "id": "f369038f-2111-46eb-8237-d1c3948a2d83",
+      "isExpense": true,
+      "value": "5"
+    }
+  ]
+}
